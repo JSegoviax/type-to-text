@@ -1,0 +1,327 @@
+TLoginTest
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/projects/text to keyboard/LoginTest/Frank/frankified_build/./LoginTest.app/Info.plist" LoginTest/LoginTest-Info.plist
+cSymLink "/projects/text to keyboard/LoginTest/build/Debug-iphonesimulator/LoginTest.app" "/projects/text to keyboard/LoginTest/Frank/frankified_build/./LoginTest.app"
+cProcessPCH /var/folders/z2/_sjzrzsn5qx3b2t63tt2m7v40000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/LoginTest-Prefix-gatugvvtvbcfkiebgsoxtgnqqkss/LoginTest-Prefix.pch.pth LoginTest/LoginTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/Objects-normal/i386/AppDelegate.o "/projects/text to keyboard/LoginTest/LoginTest/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/Objects-normal/i386/main.o "/projects/text to keyboard/LoginTest/LoginTest/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/Objects-normal/i386/ViewController.o "/projects/text to keyboard/LoginTest/LoginTest/ViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/projects/text to keyboard/LoginTest/Frank/frankified_build/./LoginTest.app/LoginTest" normal i386
+cGenerateDSYMFile "/projects/text to keyboard/LoginTest/build/Debug-iphonesimulator/LoginTest.app.dSYM" "/projects/text to keyboard/LoginTest/Frank/frankified_build/./LoginTest.app/LoginTest"
+cCopyStringsFile "/projects/text to keyboard/LoginTest/Frank/frankified_build/./LoginTest.app/en.lproj/InfoPlist.strings" LoginTest/en.lproj/InfoPlist.strings
+cCpResource LoginTest/Default.png Frank/frankified_build/./LoginTest.app/Default.png
+cCpResource LoginTest/Default@2x.png Frank/frankified_build/./LoginTest.app/Default@2x.png
+cCpResource LoginTest/Default-568h@2x.png Frank/frankified_build/./LoginTest.app/Default-568h@2x.png
+cCompileXIB "/projects/text to keyboard/LoginTest/LoginTest/en.lproj/ViewController.xib"
+cTouch "/projects/text to keyboard/LoginTest/Frank/frankified_build/./LoginTest.app"
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c00000000504916AD0000000000000110
+t1346967213
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000050FA15750000000000228FD0
+t1358566773
+s2265040
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000050FA157600000000003DCEF0
+t1358566774
+s4050672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c0000000050FA157600000000000015F7
+t1358566774
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c0000000050FA157A0000000000000E8D
+t1358566778
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000050FA157C0000000000AB3D60
+t1358566780
+s11222368
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/Availability.h
+c0000000050FA158B0000000000001B54
+t1358566795
+s6996
+
+N/projects/text to keyboard/LoginTest/Frank/frankified_build/./LoginTest.app
+t2
+s0
+
+N/projects/text to keyboard/LoginTest/Frank/frankified_build/./LoginTest.app/Default-568h@2x.png
+t2
+s0
+
+N/projects/text to keyboard/LoginTest/Frank/frankified_build/./LoginTest.app/Default.png
+t2
+s0
+
+N/projects/text to keyboard/LoginTest/Frank/frankified_build/./LoginTest.app/Default@2x.png
+t2
+s0
+
+N/projects/text to keyboard/LoginTest/Frank/frankified_build/./LoginTest.app/Info.plist
+t2
+s0
+
+N/projects/text to keyboard/LoginTest/Frank/frankified_build/./LoginTest.app/LoginTest
+t2
+s0
+
+N/projects/text to keyboard/LoginTest/Frank/frankified_build/./LoginTest.app/PkgInfo
+t2
+s0
+
+N/projects/text to keyboard/LoginTest/Frank/frankified_build/./LoginTest.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/projects/text to keyboard/LoginTest/Frank/frankified_build/./LoginTest.app/en.lproj/ViewController.nib
+t2
+s0
+
+N/projects/text to keyboard/LoginTest/LoginTest/AppDelegate.h
+c000000005102D5860000000000000172
+t1359140230
+s370
+
+N/projects/text to keyboard/LoginTest/LoginTest/AppDelegate.m
+c000000005102D5860000000000000905
+t1359140230
+s2309
+
+N/projects/text to keyboard/LoginTest/LoginTest/Default-568h@2x.png
+c0000000050748B2300000000000048A2
+t1349815075
+s18594
+
+N/projects/text to keyboard/LoginTest/LoginTest/Default.png
+c0000000050748B23000000000000198C
+t1349815075
+s6540
+
+N/projects/text to keyboard/LoginTest/LoginTest/Default@2x.png
+c0000000050748B230000000000003EEB
+t1349815075
+s16107
+
+N/projects/text to keyboard/LoginTest/LoginTest/LoginTest-Prefix.pch
+c000000005102D5860000000000000141
+t1359140230
+s321
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/projects/text to keyboard/LoginTest/LoginTest/ViewController.h
+c000000005102D58600000000000000DD
+t1359140230
+s221
+
+N/projects/text to keyboard/LoginTest/LoginTest/ViewController.m
+c000000005102DEDB000000000000041F
+t1359142619
+s1055
+
+N/projects/text to keyboard/LoginTest/LoginTest/en.lproj/InfoPlist.strings
+c000000005102D586000000000000002D
+t1359140230
+s45
+
+N/projects/text to keyboard/LoginTest/LoginTest/en.lproj/ViewController.xib
+c000000005102D5860000000000001489
+t1359140230
+s5257
+
+N/projects/text to keyboard/LoginTest/LoginTest/main.m
+c000000005102D5860000000000000156
+t1359140230
+s342
+
+N/projects/text to keyboard/LoginTest/build/Debug-iphonesimulator/LoginTest.app
+t2
+s0
+
+N/projects/text to keyboard/LoginTest/build/Debug-iphonesimulator/LoginTest.app.dSYM
+t2
+s0
+
+N/projects/text to keyboard/LoginTest/build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/projects/text to keyboard/LoginTest/build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/Objects-normal/i386/LoginTest.LinkFileList
+c000000005102DF1B0000000000000185
+t1359142683
+s389
+
+N/projects/text to keyboard/LoginTest/build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/Objects-normal/i386/ViewController.o
+t2
+s0
+
+N/projects/text to keyboard/LoginTest/build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/var/folders/z2/_sjzrzsn5qx3b2t63tt2m7v40000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/LoginTest-Prefix-gatugvvtvbcfkiebgsoxtgnqqkss/LoginTest-Prefix.pch.pth
+t2
+s0
+
+NLoginTest/LoginTest-Info.plist
+c000000005102DCF0000000000000045B
+t1359142128
+s1115
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies6c24c99b16b3b641^94c0ce9b16b3b641^---0#1#0#--18"Check dependencies36"02F549F8-9178-40BA-8200-69959443EBF9-
+
+CCompileC build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/Objects-normal/i386/AppDelegate.o "/projects/text to keyboard/LoginTest/LoginTest/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s380835484.153766
+e380835484.262858
+r1
+xCompileC
+xbuild/LoginTest.build/Debug-iphonesimulator/LoginTest.build/Objects-normal/i386/AppDelegate.o
+x/projects/text to keyboard/LoginTest/LoginTest/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /projects/text to keyboard/LoginTest/LoginTest/AppDelegate.mc382279c16b3b641^9b59439c16b3b641^---0#0#0#-19%DVTDocumentLocation2@80"file://localhost/projects/text%20to%20keyboard/LoginTest/LoginTest/AppDelegate.m0000000000000000^3773"CompileC build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/Objects-normal/i386/AppDelegate.o LoginTest/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/projects/text to keyboard/LoginTest"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Segovia/.rvm/gems/ruby-1.9.3-p362/bin:/Users/Segovia/.rvm/gems/ruby-1.9.3-p362@global/bin:/Users/Segovia/.rvm/rubies/ruby-1.9.3-p362/bin:/Users/Segovia/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote "/projects/text to keyboard/LoginTest/build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/LoginTest-generated-files.hmap" "-I/projects/text to keyboard/LoginTest/build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/LoginTest-own-target-headers.hmap" "-I/projects/text to keyboard/LoginTest/build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/LoginTest-all-target-headers.hmap" -iquote "/projects/text to keyboard/LoginTest/build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/LoginTest-project-headers.hmap" "-I/projects/text to keyboard/LoginTest/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/projects/text to keyboard/LoginTest/build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/DerivedSources/i386" "-I/projects/text to keyboard/LoginTest/build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/DerivedSources" "-F/projects/text to keyboard/LoginTest/build/Debug-iphonesimulator" -include /var/folders/z2/_sjzrzsn5qx3b2t63tt2m7v40000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/LoginTest-Prefix-gatugvvtvbcfkiebgsoxtgnqqkss/LoginTest-Prefix.pch -DFRANKIFIED -MMD -MT dependencies -MF "/projects/text to keyboard/LoginTest/build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/Objects-normal/i386/AppDelegate.d" --serialize-diagnostics "/projects/text to keyboard/LoginTest/build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/Objects-normal/i386/AppDelegate.dia" -c "/projects/text to keyboard/LoginTest/LoginTest/AppDelegate.m" -o "/projects/text to keyboard/LoginTest/build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/Objects-normal/i386/AppDelegate.o"36"131E856D-554E-49F7-BF6E-29A83B722E40-
+
+CCompileC build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/Objects-normal/i386/ViewController.o "/projects/text to keyboard/LoginTest/LoginTest/ViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s380835484.214708
+e380835484.280601
+r1
+xCompileC
+xbuild/LoginTest.build/Debug-iphonesimulator/LoginTest.build/Objects-normal/i386/ViewController.o
+x/projects/text to keyboard/LoginTest/LoginTest/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /projects/text to keyboard/LoginTest/LoginTest/ViewController.m251f379c16b3b641^aad5479c16b3b641^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/projects/text%20to%20keyboard/LoginTest/LoginTest/ViewController.m0000000000000000^3791"CompileC build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/Objects-normal/i386/ViewController.o LoginTest/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/projects/text to keyboard/LoginTest"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Segovia/.rvm/gems/ruby-1.9.3-p362/bin:/Users/Segovia/.rvm/gems/ruby-1.9.3-p362@global/bin:/Users/Segovia/.rvm/rubies/ruby-1.9.3-p362/bin:/Users/Segovia/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote "/projects/text to keyboard/LoginTest/build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/LoginTest-generated-files.hmap" "-I/projects/text to keyboard/LoginTest/build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/LoginTest-own-target-headers.hmap" "-I/projects/text to keyboard/LoginTest/build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/LoginTest-all-target-headers.hmap" -iquote "/projects/text to keyboard/LoginTest/build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/LoginTest-project-headers.hmap" "-I/projects/text to keyboard/LoginTest/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/projects/text to keyboard/LoginTest/build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/DerivedSources/i386" "-I/projects/text to keyboard/LoginTest/build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/DerivedSources" "-F/projects/text to keyboard/LoginTest/build/Debug-iphonesimulator" -include /var/folders/z2/_sjzrzsn5qx3b2t63tt2m7v40000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/LoginTest-Prefix-gatugvvtvbcfkiebgsoxtgnqqkss/LoginTest-Prefix.pch -DFRANKIFIED -MMD -MT dependencies -MF "/projects/text to keyboard/LoginTest/build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/Objects-normal/i386/ViewController.d" --serialize-diagnostics "/projects/text to keyboard/LoginTest/build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/Objects-normal/i386/ViewController.dia" -c "/projects/text to keyboard/LoginTest/LoginTest/ViewController.m" -o "/projects/text to keyboard/LoginTest/build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/Objects-normal/i386/ViewController.o"36"F623E859-1402-4552-BD2C-D1F9854F9ECB-
+
+CCompileC build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/Objects-normal/i386/main.o "/projects/text to keyboard/LoginTest/LoginTest/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s380835484.153810
+e380835484.213432
+r1
+xCompileC
+xbuild/LoginTest.build/Debug-iphonesimulator/LoginTest.build/Objects-normal/i386/main.o
+x/projects/text to keyboard/LoginTest/LoginTest/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /projects/text to keyboard/LoginTest/LoginTest/main.m4584279c16b3b641^eeaf369c16b3b641^---0#0#0#-19%DVTDocumentLocation2@73"file://localhost/projects/text%20to%20keyboard/LoginTest/LoginTest/main.m0000000000000000^3731"CompileC build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/Objects-normal/i386/main.o LoginTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/projects/text to keyboard/LoginTest"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Segovia/.rvm/gems/ruby-1.9.3-p362/bin:/Users/Segovia/.rvm/gems/ruby-1.9.3-p362@global/bin:/Users/Segovia/.rvm/rubies/ruby-1.9.3-p362/bin:/Users/Segovia/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote "/projects/text to keyboard/LoginTest/build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/LoginTest-generated-files.hmap" "-I/projects/text to keyboard/LoginTest/build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/LoginTest-own-target-headers.hmap" "-I/projects/text to keyboard/LoginTest/build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/LoginTest-all-target-headers.hmap" -iquote "/projects/text to keyboard/LoginTest/build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/LoginTest-project-headers.hmap" "-I/projects/text to keyboard/LoginTest/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/projects/text to keyboard/LoginTest/build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/DerivedSources/i386" "-I/projects/text to keyboard/LoginTest/build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/DerivedSources" "-F/projects/text to keyboard/LoginTest/build/Debug-iphonesimulator" -include /var/folders/z2/_sjzrzsn5qx3b2t63tt2m7v40000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/LoginTest-Prefix-gatugvvtvbcfkiebgsoxtgnqqkss/LoginTest-Prefix.pch -DFRANKIFIED -MMD -MT dependencies -MF "/projects/text to keyboard/LoginTest/build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/Objects-normal/i386/main.d" --serialize-diagnostics "/projects/text to keyboard/LoginTest/build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/Objects-normal/i386/main.dia" -c "/projects/text to keyboard/LoginTest/LoginTest/main.m" -o "/projects/text to keyboard/LoginTest/build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/Objects-normal/i386/main.o"36"086125FC-FE7B-4DC8-ADE4-8B32651B581A-
+
+CCompileXIB "/projects/text to keyboard/LoginTest/LoginTest/en.lproj/ViewController.xib"
+s380835484.749526
+e380835484.769831
+r1
+xCompileXIB
+x/projects/text to keyboard/LoginTest/LoginTest/en.lproj/ViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compiling /projects/text to keyboard/LoginTest/LoginTest/en.lproj/ViewController.xibd7f9bf9c16b3b641^d922c59c16b3b641^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/projects/text%20to%20keyboard/LoginTest/LoginTest/en.lproj/ViewController.xib0000000000000000^1100"CompileXIB LoginTest/en.lproj/ViewController.xib    cd "/projects/text to keyboard/LoginTest"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Segovia/.rvm/gems/ruby-1.9.3-p362/bin:/Users/Segovia/.rvm/gems/ruby-1.9.3-p362@global/bin:/Users/Segovia/.rvm/rubies/ruby-1.9.3-p362/bin:/Users/Segovia/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/projects/text to keyboard/LoginTest/Frank/frankified_build/./LoginTest.app/en.lproj/ViewController.nib" "/projects/text to keyboard/LoginTest/LoginTest/en.lproj/ViewController.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"E896F363-3F85-4400-8B95-7C80A2A12A1B-
+
+CCopyStringsFile "/projects/text to keyboard/LoginTest/Frank/frankified_build/./LoginTest.app/en.lproj/InfoPlist.strings" LoginTest/en.lproj/InfoPlist.strings
+s380835484.738555
+e380835484.742369
+r1
+xCopyStringsFile
+x/projects/text to keyboard/LoginTest/Frank/frankified_build/./LoginTest.app/en.lproj/InfoPlist.strings
+xLoginTest/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy LoginTest/en.lproj/InfoPlist.stringsf12cbd9c16b3b641^0917be9c16b3b641^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/projects/text%20to%20keyboard/LoginTest/LoginTest/en.lproj/InfoPlist.strings0000000000000000^760"CopyStringsFile Frank/frankified_build/./LoginTest.app/en.lproj/InfoPlist.strings LoginTest/en.lproj/InfoPlist.strings    cd "/projects/text to keyboard/LoginTest"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Segovia/.rvm/gems/ruby-1.9.3-p362/bin:/Users/Segovia/.rvm/gems/ruby-1.9.3-p362@global/bin:/Users/Segovia/.rvm/rubies/ruby-1.9.3-p362/bin:/Users/Segovia/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir "/projects/text to keyboard/LoginTest/Frank/frankified_build/./LoginTest.app/en.lproj" -- LoginTest/en.lproj/InfoPlist.strings36"8007BD9A-C1A7-43E4-9CCD-74A607FC12E6-
+
+CCpResource LoginTest/Default-568h@2x.png Frank/frankified_build/./LoginTest.app/Default-568h@2x.png
+s380835484.744062
+e380835484.748303
+r1
+xCpResource
+xLoginTest/Default-568h@2x.png
+xFrank/frankified_build/./LoginTest.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy Frank/frankified_build/./LoginTest.app/Default-568h@2x.png658dbe9c16b3b641^3ca1bf9c16b3b641^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/projects/text%20to%20keyboard/LoginTest/Frank/frankified_build/./LoginTest.app/Default-568h@2x.png000000000080d041^787"CpResource "LoginTest/Default-568h@2x.png" "Frank/frankified_build/./LoginTest.app/Default-568h@2x.png"    cd "/projects/text to keyboard/LoginTest"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Segovia/.rvm/gems/ruby-1.9.3-p362/bin:/Users/Segovia/.rvm/gems/ruby-1.9.3-p362@global/bin:/Users/Segovia/.rvm/rubies/ruby-1.9.3-p362/bin:/Users/Segovia/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/projects/text to keyboard/LoginTest/LoginTest/Default-568h@2x.png" "/projects/text to keyboard/LoginTest/Frank/frankified_build/./LoginTest.app"36"25050AFD-70A5-494C-8917-E04C5B290D2B-
+
+CCpResource LoginTest/Default.png Frank/frankified_build/./LoginTest.app/Default.png
+s380835484.739103
+e380835484.742900
+r1
+xCpResource
+xLoginTest/Default.png
+xFrank/frankified_build/./LoginTest.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy Frank/frankified_build/./LoginTest.app/Default.png0a4abd9c16b3b641^d32ebe9c16b3b641^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/projects/text%20to%20keyboard/LoginTest/Frank/frankified_build/./LoginTest.app/Default.png000000000080d041^759"CpResource LoginTest/Default.png Frank/frankified_build/./LoginTest.app/Default.png    cd "/projects/text to keyboard/LoginTest"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Segovia/.rvm/gems/ruby-1.9.3-p362/bin:/Users/Segovia/.rvm/gems/ruby-1.9.3-p362@global/bin:/Users/Segovia/.rvm/rubies/ruby-1.9.3-p362/bin:/Users/Segovia/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/projects/text to keyboard/LoginTest/LoginTest/Default.png" "/projects/text to keyboard/LoginTest/Frank/frankified_build/./LoginTest.app"36"2115529A-699F-4E2F-864D-9F5C0DE7A0B1-
+
+CCpResource LoginTest/Default@2x.png Frank/frankified_build/./LoginTest.app/Default@2x.png
+s380835484.743613
+e380835484.748302
+r1
+xCpResource
+xLoginTest/Default@2x.png
+xFrank/frankified_build/./LoginTest.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Copy Frank/frankified_build/./LoginTest.app/Default@2x.png9772be9c16b3b641^c092bf9c16b3b641^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/projects/text%20to%20keyboard/LoginTest/Frank/frankified_build/./LoginTest.app/Default@2x.png000000000080d041^772"CpResource "LoginTest/Default@2x.png" "Frank/frankified_build/./LoginTest.app/Default@2x.png"    cd "/projects/text to keyboard/LoginTest"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Segovia/.rvm/gems/ruby-1.9.3-p362/bin:/Users/Segovia/.rvm/gems/ruby-1.9.3-p362@global/bin:/Users/Segovia/.rvm/rubies/ruby-1.9.3-p362/bin:/Users/Segovia/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/projects/text to keyboard/LoginTest/LoginTest/Default@2x.png" "/projects/text to keyboard/LoginTest/Frank/frankified_build/./LoginTest.app"36"38534F98-13ED-4EA5-88FB-AA6CAE5560A8-
+
+CGenerateDSYMFile "/projects/text to keyboard/LoginTest/build/Debug-iphonesimulator/LoginTest.app.dSYM" "/projects/text to keyboard/LoginTest/Frank/frankified_build/./LoginTest.app/LoginTest"
+s380835484.551107
+e380835484.730549
+r1
+xGenerateDSYMFile
+x/projects/text to keyboard/LoginTest/build/Debug-iphonesimulator/LoginTest.app.dSYM
+x/projects/text to keyboard/LoginTest/Frank/frankified_build/./LoginTest.app/LoginTest
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Generating /projects/text to keyboard/LoginTest/build/Debug-iphonesimulator/LoginTest.app.dSYMfd2d8d9c16b3b641^d506bb9c16b3b641^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/projects/text%20to%20keyboard/LoginTest/build/Debug-iphonesimulator/LoginTest.app.dSYM000000000080d041^814"GenerateDSYMFile build/Debug-iphonesimulator/LoginTest.app.dSYM Frank/frankified_build/./LoginTest.app/LoginTest    cd "/projects/text to keyboard/LoginTest"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Segovia/.rvm/gems/ruby-1.9.3-p362/bin:/Users/Segovia/.rvm/gems/ruby-1.9.3-p362@global/bin:/Users/Segovia/.rvm/rubies/ruby-1.9.3-p362/bin:/Users/Segovia/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil "/projects/text to keyboard/LoginTest/Frank/frankified_build/./LoginTest.app/LoginTest" -o "/projects/text to keyboard/LoginTest/build/Debug-iphonesimulator/LoginTest.app.dSYM"36"EB05AB3F-FFED-49D8-A700-1245FCF7D131-
+
+CLd "/projects/text to keyboard/LoginTest/Frank/frankified_build/./LoginTest.app/LoginTest" normal i386
+s380835484.287412
+e380835484.544282
+r1
+xLd
+x/projects/text to keyboard/LoginTest/Frank/frankified_build/./LoginTest.app/LoginTest
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Link /projects/text to keyboard/LoginTest/Frank/frankified_build/./LoginTest.app/LoginTest03b4499c16b3b641^65568b9c16b3b641^---0#0#0#--1478"Ld Frank/frankified_build/./LoginTest.app/LoginTest normal i386    cd "/projects/text to keyboard/LoginTest"    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Segovia/.rvm/gems/ruby-1.9.3-p362/bin:/Users/Segovia/.rvm/gems/ruby-1.9.3-p362@global/bin:/Users/Segovia/.rvm/rubies/ruby-1.9.3-p362/bin:/Users/Segovia/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk "-L/projects/text to keyboard/LoginTest/build/Debug-iphonesimulator" "-L/projects/text to keyboard/LoginTest/Frank" "-F/projects/text to keyboard/LoginTest/build/Debug-iphonesimulator" -filelist "/projects/text to keyboard/LoginTest/build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/Objects-normal/i386/LoginTest.LinkFileList" -Xlinker -objc_abi_version -Xlinker 2 -all_load -ObjC -framework CFNetwork -framework Security -lShelley -lCocoaHTTPServer -lFrank -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -framework UIKit -framework Foundation -framework CoreGraphics -o "/projects/text to keyboard/LoginTest/Frank/frankified_build/./LoginTest.app/LoginTest"36"910385DB-E694-4C4D-9C69-203D6344E68C-
+
+CProcessInfoPlistFile "/projects/text to keyboard/LoginTest/Frank/frankified_build/./LoginTest.app/Info.plist" LoginTest/LoginTest-Info.plist
+s380835483.811610
+e380835483.816796
+r1
+xProcessInfoPlistFile
+x/projects/text to keyboard/LoginTest/Frank/frankified_build/./LoginTest.app/Info.plist
+xLoginTest/LoginTest-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Process LoginTest/LoginTest-Info.plisteee8cf9b16b3b641^9b21d19b16b3b641^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/projects/text%20to%20keyboard/LoginTest/LoginTest/LoginTest-Info.plist0000000000000000^838"ProcessInfoPlistFile Frank/frankified_build/./LoginTest.app/Info.plist LoginTest/LoginTest-Info.plist    cd "/projects/text to keyboard/LoginTest"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Segovia/.rvm/gems/ruby-1.9.3-p362/bin:/Users/Segovia/.rvm/gems/ruby-1.9.3-p362@global/bin:/Users/Segovia/.rvm/rubies/ruby-1.9.3-p362/bin:/Users/Segovia/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-infoPlistUtility LoginTest/LoginTest-Info.plist -genpkginfo "/projects/text to keyboard/LoginTest/Frank/frankified_build/./LoginTest.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/projects/text to keyboard/LoginTest/Frank/frankified_build/./LoginTest.app/Info.plist"36"0205A431-D28C-480B-BFC3-9550B7C4CC81-
+
+CProcessPCH /var/folders/z2/_sjzrzsn5qx3b2t63tt2m7v40000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/LoginTest-Prefix-gatugvvtvbcfkiebgsoxtgnqqkss/LoginTest-Prefix.pch.pth LoginTest/LoginTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s380835483.829767
+e380835484.146882
+r1
+xProcessPCH
+x/var/folders/z2/_sjzrzsn5qx3b2t63tt2m7v40000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/LoginTest-Prefix-gatugvvtvbcfkiebgsoxtgnqqkss/LoginTest-Prefix.pch.pth
+xLoginTest/LoginTest-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile LoginTest/LoginTest-Prefix.pch8e91d49b16b3b641^7899259c16b3b641^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/projects/text%20to%20keyboard/LoginTest/LoginTest/LoginTest-Prefix.pch0000000000000000^3776"ProcessPCH /var/folders/z2/_sjzrzsn5qx3b2t63tt2m7v40000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/LoginTest-Prefix-gatugvvtvbcfkiebgsoxtgnqqkss/LoginTest-Prefix.pch.pth LoginTest/LoginTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/projects/text to keyboard/LoginTest"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Segovia/.rvm/gems/ruby-1.9.3-p362/bin:/Users/Segovia/.rvm/gems/ruby-1.9.3-p362@global/bin:/Users/Segovia/.rvm/rubies/ruby-1.9.3-p362/bin:/Users/Segovia/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote "/projects/text to keyboard/LoginTest/build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/LoginTest-generated-files.hmap" "-I/projects/text to keyboard/LoginTest/build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/LoginTest-own-target-headers.hmap" "-I/projects/text to keyboard/LoginTest/build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/LoginTest-all-target-headers.hmap" -iquote "/projects/text to keyboard/LoginTest/build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/LoginTest-project-headers.hmap" "-I/projects/text to keyboard/LoginTest/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/projects/text to keyboard/LoginTest/build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/DerivedSources/i386" "-I/projects/text to keyboard/LoginTest/build/LoginTest.build/Debug-iphonesimulator/LoginTest.build/DerivedSources" "-F/projects/text to keyboard/LoginTest/build/Debug-iphonesimulator" --serialize-diagnostics /var/folders/z2/_sjzrzsn5qx3b2t63tt2m7v40000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/LoginTest-Prefix-gatugvvtvbcfkiebgsoxtgnqqkss/LoginTest-Prefix.pch.dia -c "/projects/text to keyboard/LoginTest/LoginTest/LoginTest-Prefix.pch" -o /var/folders/z2/_sjzrzsn5qx3b2t63tt2m7v40000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/LoginTest-Prefix-gatugvvtvbcfkiebgsoxtgnqqkss/LoginTest-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/z2/_sjzrzsn5qx3b2t63tt2m7v40000gp/C/com.apple.Xcode.502/SharedPrecompiledHeaders/LoginTest-Prefix-gatugvvtvbcfkiebgsoxtgnqqkss/LoginTest-Prefix.pch.d36"040A6DBA-579B-4FEE-9759-2B0FF3B4A577-
+
+CSymLink "/projects/text to keyboard/LoginTest/build/Debug-iphonesimulator/LoginTest.app" "/projects/text to keyboard/LoginTest/Frank/frankified_build/./LoginTest.app"
+s380835483.812272
+e380835483.821861
+r1
+xSymLink
+x/projects/text to keyboard/LoginTest/build/Debug-iphonesimulator/LoginTest.app
+x/projects/text to keyboard/LoginTest/Frank/frankified_build/./LoginTest.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Process /projects/text to keyboard/LoginTest/build/Debug-iphonesimulator/LoginTest.app130bd09b16b3b641^fc72d29b16b3b641^---0#0#0#--688"SymLink build/Debug-iphonesimulator/LoginTest.app Frank/frankified_build/./LoginTest.app    cd "/projects/text to keyboard/LoginTest"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Segovia/.rvm/gems/ruby-1.9.3-p362/bin:/Users/Segovia/.rvm/gems/ruby-1.9.3-p362@global/bin:/Users/Segovia/.rvm/rubies/ruby-1.9.3-p362/bin:/Users/Segovia/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /bin/ln -sf "/projects/text to keyboard/LoginTest/Frank/frankified_build/./LoginTest.app" "/projects/text to keyboard/LoginTest/build/Debug-iphonesimulator/LoginTest.app"36"F3B13563-60BD-4F5F-A9D6-2D8FFEDE99DC-
+
+CTouch "/projects/text to keyboard/LoginTest/Frank/frankified_build/./LoginTest.app"
+s380835484.778711
+e380835484.793717
+r1
+xTouch
+x/projects/text to keyboard/LoginTest/Frank/frankified_build/./LoginTest.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Touch /projects/text to keyboard/LoginTest/Frank/frankified_build/./LoginTest.app3a77c79c16b3b641^a33ccb9c16b3b641^---0#0#0#--569"Touch Frank/frankified_build/./LoginTest.app    cd "/projects/text to keyboard/LoginTest"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/Segovia/.rvm/gems/ruby-1.9.3-p362/bin:/Users/Segovia/.rvm/gems/ruby-1.9.3-p362@global/bin:/Users/Segovia/.rvm/rubies/ruby-1.9.3-p362/bin:/Users/Segovia/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /usr/bin/touch -c "/projects/text to keyboard/LoginTest/Frank/frankified_build/./LoginTest.app"36"CEBB203E-11C1-47DF-AE22-98E9564B2DB5-
+

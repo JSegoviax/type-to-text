@@ -18,6 +18,20 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    
+    self.view.backgroundColor = [UIColor greenColor];
+    
+    UITextField* nameField = [[UITextField alloc] initWithFrame: CGRectMake (100, 100, 100, 20)];
+    nameField.backgroundColor = [UIColor redColor];
+    nameField.placeholder = @"Email";
+    [self.view addSubview: nameField];
+    
+    UITextField* passwordField = [[UITextField alloc] initWithFrame: CGRectMake (100, 400, 100, 20)];
+    passwordField.backgroundColor = [UIColor magentaColor];
+    passwordField.placeholder = @"Password";
+    [self.view addSubview: passwordField];
+    
 }
 
 - (void)didReceiveMemoryWarning
